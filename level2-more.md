@@ -9,5 +9,3 @@ You will build apps, games, and simulations that respond dynamically.
 
 📖 External Guide:  
 👉 [Scratch Level 2 – More Scratch (Raspberry Pi Projects)](https://projects.raspberrypi.org/en/pathways/more-scratch)  
-
-**Progress:** No Progress
