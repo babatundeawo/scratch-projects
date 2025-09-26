@@ -7,5 +7,3 @@ In this beginner-friendly path, you will learn:
 
 📖 External Guide:  
 👉 [Scratch Level 1 – Introduction (Raspberry Pi Projects)](https://projects.raspberrypi.org/en/pathways/scratch-intro)  
-
-**Progress:** No Progress
