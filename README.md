@@ -7,7 +7,7 @@ Here, you will begin your adventure in **digital making** by learning to code **
 
 ## 📖 Learning Path
 
-### 🟢 Scratch - Level 1: *Introduction to Scratch*
+### 🟢 [Scratch - Level 1: *Introduction to Scratch*](https://github.com/babatundeawo/scratch-projects/blob/main/01_level1-introduction.md)
 - Sprites, scripts, and loops  
 - Learn how to add **code, costumes, and sounds** to sprites.  
 - Build fun projects like:
@@ -20,7 +20,7 @@ Here, you will begin your adventure in **digital making** by learning to code **
 
 ---
 
-### 🟡 Scratch - Level 2: *More Scratch*
+### 🟡 [Scratch - Level 2: *More Scratch*](https://github.com/babatundeawo/scratch-projects/blob/main/02_level2-more.md)
 - Broadcast, decisions, and variables  
 - Move beyond the basics and create:
   - Apps  
@@ -33,7 +33,7 @@ You will use **message broadcasting**, **if...then** decisions, and **variables*
 
 ---
 
-### 🔵 Scratch - Level 3: *Further Scratch*
+### 🔵 [Scratch - Level 3: *Further Scratch*](https://github.com/babatundeawo/scratch-projects/blob/main/03_level3-further.md)
 - Clones, my blocks, and Boolean logic  
 - Advance your skills by making:
   - Games  
@@ -51,9 +51,9 @@ You’ll work with **Boolean logic**, **functions (My Blocks)**, and **clones** 
 
 Explore extra Scratch modules to continue your coding journey:  
 
-- **Scratch: Module 1** – Learn how to program interactive stories, games, and animations.  
-- **Scratch: Module 2** – Learn how to program interactive stories, games, and animations.  
-- **Scratch: Module 3** – Learn how to program interactive stories, games, and animations.  
+- [**Scratch: Module 1**](https://github.com/babatundeawo/scratch-projects/blob/main/04_module1.md) – Learn how to program interactive stories, games, and animations.  
+- [**Scratch: Module 2**](https://github.com/babatundeawo/scratch-projects/blob/main/05_module2.md) – Learn how to program interactive stories, games, and animations.  
+- [**Scratch: Module 3**](https://github.com/babatundeawo/scratch-projects/blob/main/06_module3.md) – Learn how to program interactive stories, games, and animations.  
 
 ---
 
