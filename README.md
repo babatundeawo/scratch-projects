@@ -55,18 +55,6 @@ Explore extra Scratch modules to continue your coding journey:
 - **Scratch: Module 2** – Learn how to program interactive stories, games, and animations.  
 - **Scratch: Module 3** – Learn how to program interactive stories, games, and animations.  
 
-**Progress:** No Progress
-
----
-
-## 🚀 How to Use
-
-1. Visit the [Scratch Website](https://scratch.mit.edu/).  
-2. Open the `.sb3` project files from this repo:
-   - Go to **File → Load from your computer**.  
-   - Select the project file you want to explore.  
-3. Modify and remix the projects to learn by doing!  
-
 ---
 
 ## 🎯 Learning Outcomes
