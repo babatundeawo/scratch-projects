@@ -16,8 +16,6 @@ Here, you will begin your adventure in **digital making** by learning to code **
   - A small app  
   - An interactive book  
 
-**Progress:** No Progress
-
 ---
 
 ### 🟡 [Scratch - Level 2: *More Scratch*](https://github.com/babatundeawo/scratch-projects/blob/main/02_level2-more.md)
@@ -28,8 +26,6 @@ Here, you will begin your adventure in **digital making** by learning to code **
   - Simulations  
 
 You will use **message broadcasting**, **if...then** decisions, and **variables** to add more power to your projects.
-
-**Progress:** No Progress
 
 ---
 
@@ -42,8 +38,6 @@ You will use **message broadcasting**, **if...then** decisions, and **variables*
   - Simulations  
 
 You’ll work with **Boolean logic**, **functions (My Blocks)**, and **clones** to create more complex programs.
-
-**Progress:** No Progress
 
 ---
 
